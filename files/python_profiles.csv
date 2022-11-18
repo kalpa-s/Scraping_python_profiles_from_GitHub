@@ -1,0 +1,25 @@
+,name,popular_repo_name,repo_url,profile_url,bio,company,location,contribution
+0,Romain Beaumont,img2dataset,https://github.com/rom1504/img2dataset,https://github.com/rom1504,"Interested in machine learning (computer vision, natural language processing, deep learning), node.js (network, bots, web), and programming in general",@google,Paris,1848
+1,Matthias Fey,pytorch_scatter,https://github.com/rusty1s/pytorch_scatter,https://github.com/rusty1s,Creator of PyG (PyTorch Geometric) - Founding Engineer @ kumo.ai - PhD from TU Dortmund University - Interested in Graph Representation Learning,-,"Dortmund, Germany",4497
+2,Charles Tapley Hoyt,opencheck-embed,https://github.com/cthoyt/opencheck-embed,https://github.com/cthoyt,"Bio/cheminformatician, open scientist, maintainer of @pybel and @pykeen, part of @indralab (he/him)",@pybel,"Bonn, Germany",5320
+3,RangiLyu,nanodet,https://github.com/RangiLyu/nanodet,https://github.com/RangiLyu,Deep Learning & Computer Vision,-,Shanghai,891
+4,Xingyi Zhou,CenterNet,https://github.com/xingyizhou/CenterNet,https://github.com/xingyizhou,CS Ph.D. student at UT Austin.,-,Austin,311
+5,Costa Huang,cleanrl,https://github.com/vwxyzjn/cleanrl,https://github.com/vwxyzjn,Computer Science Ph.D student at Drexel University researching Game Artificial Intelligence,-,"Philadelphia, PA",1122
+6,Kentaro Wada,labelme,https://github.com/wkentaro/labelme,https://github.com/wkentaro,Passionate about automation. Working on computer vision and robotics.,@mujin,"Tokyo, Japan",1523
+7,Maarten Grootendorst,BERTopic,https://github.com/MaartenGr/BERTopic,https://github.com/MaartenGr,Data Scientist | Psychologist,-,"Netherlands, Tilburg",66
+8,Cyrille Rossant,awesome-math,https://github.com/rossant/awesome-math,https://github.com/rossant,Neuroscience researcher and software engineer,@int-brain-lab,Paris,922
+9,Wey Gu,nebula-dgl,https://github.com/wey-gu/nebula-dgl,https://github.com/wey-gu,Developer Advocate @vesoft-inc,@vesoft-inc,Shanghai,1608
+10,Bane Sullivan,banesullivan,https://github.com/banesullivan/banesullivan,https://github.com/banesullivan,visualization geek & open source R&D engineer. Helped start @pyvista,@pyvista,Colorado,3607
+11,Ross Wightman,pytorch-image-models,https://github.com/rwightman/pytorch-image-models,https://github.com/rwightman,"Always learning, constantly curious. Building ML/AI systems, watching loss curves.",-,"Vancouver, BC",929
+12,Guido van Rossum,old-demos,https://github.com/gvanrossum/old-demos,https://github.com/gvanrossum,,@markshannon,San Francisco Bay Area,829
+13,Benjamin Peterson,six,https://github.com/benjaminp/six,https://github.com/benjaminp,,-,-,215
+14,Xintao,Real-ESRGAN,https://github.com/xinntao/Real-ESRGAN,https://github.com/xinntao,"Researcher at Tencent ARC Lab, (Applied Research Center)",-,"Shenzhen, China",357
+15,Michael Dawson-Haggerty,trimesh,https://github.com/mikedh/trimesh,https://github.com/mikedh,,-,Pittsburgh,1330
+16,Ben Frederickson,implicit,https://github.com/benfred/implicit,https://github.com/benfred,Working on open source data science tools @NVIDIA,@NVIDIA,"Vancouver, BC, Canada",1018
+17,Andreas Klöckner,pudb,https://github.com/inducer/pudb,https://github.com/inducer,,@matthiasdiener,"Champaign, IL",2754
+18,Florian Roth,Loki,https://github.com/Neo23x0/Loki,https://github.com/Neo23x0,#DFIR #Python #YARA #Golang #SIEM #SOC #Sigma #Malware,@NextronSystems,-,3068
+19,Łukasz Langa,bitrot,https://github.com/ambv/bitrot,https://github.com/ambv,"Python 3.8 & 3.9 Release Manager. llanga on Twitter. Python core developer, hobbyist musician, dad.",@psf,"Poznań, Poland",394
+20,Erik Bernhardsson,ann-benchmarks,https://github.com/erikbern/ann-benchmarks,https://github.com/erikbern,"Working on some weird ideas for data infra at @modal-labs. Ex-CTO at better.com, built the music rec sys at @spotify, blogs sometimes.",@modal-labs,New York City,4383
+21,Sylvain Gugger,torchdynamo-tests,https://github.com/sgugger/torchdynamo-tests,https://github.com/sgugger,Research Engineer at HuggingFace,-,-,3847
+22,Kyle Altendorf,pyqt-tools,https://github.com/altendky/pyqt-tools,https://github.com/altendky,,-,-,3599
+23,Thomas Kluyver,pyxdg,https://github.com/takluyver/pyxdg,https://github.com/takluyver,,-,-,878
