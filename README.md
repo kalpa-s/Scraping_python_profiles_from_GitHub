@@ -1,6 +1,6 @@
 # Scraping_python_profiles_from_GitHub
 
- This code scrapes trending python developers, their popular repo details from [https://github.com/trending/developers/python?since=daily](https://github.com/trending/developers/python?since=daily). Navigates to each profile pages and grabs required details. The information collected are exported to a csv file.
+ This code scrapes trending python developers, their popular repo details from [https://github.com/trending/developers/python?since=daily](https://github.com/trending/developers/python?since=daily). Navigates to each profile pages and grabs required details. The information collected is exported to a csv file.
 
 ## Motivation
 * The main idea behind writing this set of web-scraper code, was to gain insights from top Python developers profile and their popular repositories on GitHub.
