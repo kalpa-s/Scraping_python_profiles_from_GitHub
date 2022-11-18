@@ -20,6 +20,7 @@ Python Libraries:
 
 ## Steps involved 
 * Accessing the HTML content of the webpage using requests:
+
   Website used for scraping [https://github.com/trending/developers/python?since=daily](https://github.com/trending/developers/python?since=daily)
 * Parsing the HTML content using beautiful soup
 * Extracting the required data by navigating through the parsed tree.
